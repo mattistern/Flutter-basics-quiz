@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+From the Flutter & Dart - The Complete Guide [2022 Edition] course by Maximilian Schwarzmüller.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
